@@ -1,6 +1,7 @@
 {
 	"description": "A lesson for me",
 	"author": "break bread",
+	"keywords": ["learning", "freecodecamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -16,5 +17,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": ["learning", "practicing", "freecodecamp"],
 }
