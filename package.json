@@ -1,5 +1,5 @@
 {
-	"author": "break bread",
+	"author": "break-bread",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
