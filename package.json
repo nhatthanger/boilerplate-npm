@@ -1,4 +1,5 @@
 {
+	"description": "A lesson for me",
 	"author": "break-bread",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
